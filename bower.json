@@ -1,0 +1,23 @@
+{
+  "name": "polyfill-nodelist-foreach",
+  "main": "index.js",
+  "homepage": "https://github.com/zeixcom/polyfill-nodelist-foreach",
+  "authors": [
+    "Marcel Bührig <marcel.buehrig@zeix.com>"
+  ],
+  "description": "A polyfill to add the forEach method to NodeList if not existing",
+  "keywords": [
+    "polyfill",
+    "forEach",
+    "IE11",
+    "NodeList"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

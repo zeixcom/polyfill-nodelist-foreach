@@ -1,5 +1,5 @@
 {
-  "name": "polyfill-nodelist-foreach",
+  "name": "polyfill-nodelist-foreach2",
   "version": "1.0.0",
   "description": "A polyfill to add the forEach method to NodeList if not available",
   "main": "index.js",

@@ -16,7 +16,6 @@
     "forEach",
     "polyfill"
   ],
-  "author": "Marcel Bührig <marcel.buehrig@zeix.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zeixcom/polyfill-nodelist-foreach/issues"
